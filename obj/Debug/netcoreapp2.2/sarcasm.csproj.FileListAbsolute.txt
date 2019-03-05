@@ -1,0 +1,11 @@
+/Users/scottmathews/bc/dotnet/sarcasm/bin/Debug/netcoreapp2.2/sarcasm.deps.json
+/Users/scottmathews/bc/dotnet/sarcasm/bin/Debug/netcoreapp2.2/sarcasm.runtimeconfig.json
+/Users/scottmathews/bc/dotnet/sarcasm/bin/Debug/netcoreapp2.2/sarcasm.runtimeconfig.dev.json
+/Users/scottmathews/bc/dotnet/sarcasm/bin/Debug/netcoreapp2.2/sarcasm.dll
+/Users/scottmathews/bc/dotnet/sarcasm/bin/Debug/netcoreapp2.2/sarcasm.pdb
+/Users/scottmathews/bc/dotnet/sarcasm/obj/Debug/netcoreapp2.2/sarcasm.csprojAssemblyReference.cache
+/Users/scottmathews/bc/dotnet/sarcasm/obj/Debug/netcoreapp2.2/sarcasm.csproj.CoreCompileInputs.cache
+/Users/scottmathews/bc/dotnet/sarcasm/obj/Debug/netcoreapp2.2/sarcasm.AssemblyInfoInputs.cache
+/Users/scottmathews/bc/dotnet/sarcasm/obj/Debug/netcoreapp2.2/sarcasm.AssemblyInfo.cs
+/Users/scottmathews/bc/dotnet/sarcasm/obj/Debug/netcoreapp2.2/sarcasm.dll
+/Users/scottmathews/bc/dotnet/sarcasm/obj/Debug/netcoreapp2.2/sarcasm.pdb
